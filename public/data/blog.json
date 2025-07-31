@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Getting Started with Next.js", "url": "https://nextjs.org/docs" },
+  { "id": 2, "title": "React i18n Basics", "url": "https://react.i18next.com/" }
+]
