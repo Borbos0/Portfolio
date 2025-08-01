@@ -201,3 +201,18 @@
     border-color: var(--foreground);
   }
 }
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .info {
+    text-align: center;
+  }
+  .projectItem {
+    width: 100%;
+  }
+}

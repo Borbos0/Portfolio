@@ -25,8 +25,7 @@
     "projects": "Projects",
     "contact": "Contact Me",
     "blog": "Blog",
-    "about_text": "I am a passionate developer creating amazing web solutions.",
-    "contact_text": "Get in touch for collaborations or just a friendly chat."
+    "about_text": "I am a passionate developer creating amazing web solutions."
   },
   "project": {
     "project1": "Gallery App",

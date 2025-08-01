@@ -9,7 +9,6 @@ export default function ContactClient() {
   return (
     <AnimatedSection variant="slide">
       <h2 className={styles.heading}>{t("portfolio.contact")}</h2>
-      <p className={styles.content}>{t("portfolio.contact_text")}</p>
       <div className={styles.info}>
         <a href={t("about.tg_link")} target="_blank">
           {t("about.tg")}
